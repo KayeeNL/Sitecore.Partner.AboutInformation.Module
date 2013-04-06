@@ -6,6 +6,9 @@ EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Partner.AboutInformation.Module.TDS.Master", "Sitecore.Partner.AboutInformation.Module.TDS.Master\Sitecore.Partner.AboutInformation.Module.TDS.Master.scproj", "{3C4E4032-40A7-4478-A8AC-FFA7DEDB27C2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Packages", "Packages", "{154A1816-71D9-47BE-BC6F-C53AE041E1AE}"
+	ProjectSection(SolutionItems) = preProject
+		Packages\Sitecore Partner AboutInformation Module-Version 1.0.0.0.zip = Packages\Sitecore Partner AboutInformation Module-Version 1.0.0.0.zip
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
