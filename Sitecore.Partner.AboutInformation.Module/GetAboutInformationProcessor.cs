@@ -32,12 +32,15 @@ namespace Sitecore.Partner.AboutInformation.Module
         /// <param name="args">The args.</param>
         public void Process([NotNull] GetAboutInformationArgs args)
         {
+            // 1st: The about information for the about text
             string aboutInformation = SettingsFixed.SettingsFromMaster.AboutInformation;
             if (!string.IsNullOrWhiteSpace(aboutInformation))
             {
                 args.AboutText = aboutInformation;
             }
 
+
+            // 2nd: The partner information for the Sitecore login page
             var loginPageStringBuilder = new StringBuilder();
             string header = SettingsFixed.SettingsFromMaster.Header;
             string slogan = SettingsFixed.SettingsFromMaster.Slogan;
