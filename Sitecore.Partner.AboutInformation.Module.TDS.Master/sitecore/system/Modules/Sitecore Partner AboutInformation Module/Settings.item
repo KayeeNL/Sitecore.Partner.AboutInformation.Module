@@ -12,7 +12,7 @@ templatekey: Settings
 ----version----
 language: en
 version: 1
-revision: 309e0457-66d3-4d10-b587-e08d4788a164
+revision: a98199e2-234b-4e55-8934-a2f38bc728fe
 
 ----field----
 field: {5C6CFA3E-F804-44CC-A60B-F2C5A607F78F}
@@ -25,9 +25,9 @@ This website was developed by:
 field: {91A85EC7-F707-4936-BC7C-4ED20CC81582}
 name: PartnerLogo
 key: partnerlogo
-content-length: 239
+content-length: 0
 
-<image mediaid="{38FAA7A3-CCD9-4CF8-B0AD-7F437ECE38CD}" mediapath="/SUGNL/Website/logo_kayee_bw" src="~/media/38FAA7A3CCD94CF8B0AD7F437ECE38CD.ashx" alt="Kayee, Internet &amp; Software Oplossingen" height="" width="" hspace="" vspace="" />
+
 ----field----
 field: {9023A32B-D1FE-46F0-A0B1-041C6B900AF3}
 name: PartnerWebsiteUrl
@@ -46,7 +46,7 @@ Freelance Sitecore Development!
 field: {4576BBD8-B5E7-432F-A553-36CFB38FDF3C}
 name: AboutInformation
 key: aboutinformation
-content-length: 433
+content-length: 435
 
 This website was developed by Kayee, Internet & Software Oplossingen. 
 
@@ -78,14 +78,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-309e0457-66d3-4d10-b587-e08d4788a164
+a98199e2-234b-4e55-8934-a2f38bc728fe
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20130406T235319:635008891999731398
+20130407T002625:635008911855767099
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
