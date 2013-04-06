@@ -17,8 +17,9 @@ More info:
 
 Blogpost: 
 
-==================================
+
 Brought to you by:
+==================================
 
 Robbert Hock (Kayee, Internet & Software Oplossingen)
 
