@@ -15,7 +15,7 @@ This module not yet available in the Sitecore Marketplace:
 More info:
 ==================================
 
-Blogpost: 
+Blogpost: http://newguid.net/sitecore/2013/new-sitecore-module-sitecore-partner-aboutinformation-module/ (not yet visible)
 
 
 Brought to you by:
