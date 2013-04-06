@@ -1,0 +1,95 @@
+----item----
+version: 1
+id: {BFAC3C10-4387-4031-B872-BFBFDA0224B9}
+database: master
+path: /sitecore/system/Modules/Sitecore Partner AboutInformation Module/Settings
+parent: {8F2B1BB3-88BE-4344-94FE-F4FD852B3D78}
+name: Settings
+master: {00000000-0000-0000-0000-000000000000}
+template: {A48AF70B-CD32-4D03-ACEA-3143DAD6EE46}
+templatekey: Settings
+
+----version----
+language: en
+version: 1
+revision: 309e0457-66d3-4d10-b587-e08d4788a164
+
+----field----
+field: {5C6CFA3E-F804-44CC-A60B-F2C5A607F78F}
+name: Header
+key: header
+content-length: 30
+
+This website was developed by:
+----field----
+field: {91A85EC7-F707-4936-BC7C-4ED20CC81582}
+name: PartnerLogo
+key: partnerlogo
+content-length: 239
+
+<image mediaid="{38FAA7A3-CCD9-4CF8-B0AD-7F437ECE38CD}" mediapath="/SUGNL/Website/logo_kayee_bw" src="~/media/38FAA7A3CCD94CF8B0AD7F437ECE38CD.ashx" alt="Kayee, Internet &amp; Software Oplossingen" height="" width="" hspace="" vspace="" />
+----field----
+field: {9023A32B-D1FE-46F0-A0B1-041C6B900AF3}
+name: PartnerWebsiteUrl
+key: partnerwebsiteurl
+content-length: 19
+
+http://www.kayee.nl
+----field----
+field: {2DF21001-D561-409F-B47A-7BA701059D52}
+name: Slogan
+key: slogan
+content-length: 31
+
+Freelance Sitecore Development!
+----field----
+field: {4576BBD8-B5E7-432F-A553-36CFB38FDF3C}
+name: AboutInformation
+key: aboutinformation
+content-length: 433
+
+This website was developed by Kayee, Internet & Software Oplossingen. 
+
+Kayee, is the company started by passionate Sitecore Developer Robbert Hock living in The Netherlands. Kayee is specialized since 2008 in Sitecore and Umbraco implementations. Robbert was awarded the Sitecore MVP award in 2011. He's a founder and member of the Dutch Sitecore User Group. You can follow him on twitter: @kayeeNL. His website: http://www.kayee.nl
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130406T214000
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+309e0457-66d3-4d10-b587-e08d4788a164
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130406T235319:635008891999731398
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
