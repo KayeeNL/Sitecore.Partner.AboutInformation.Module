@@ -8,6 +8,7 @@ Partners are usually very proud of their work, and with this module they can sho
 
 Sitecore Marketplace:
 ==================================
+This module is available in the Sitecore Marketplace:
 
 http://marketplace.sitecore.net/en/Modules/Sitecore_Partner_AboutInformation_Module.aspx
 
