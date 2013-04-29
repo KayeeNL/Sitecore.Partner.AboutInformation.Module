@@ -9,13 +9,13 @@ Partners are usually very proud of their work, and with this module they can sho
 Sitecore Marketplace:
 ==================================
 
-This module not yet available in the Sitecore Marketplace:
+http://marketplace.sitecore.net/en/Modules/Sitecore_Partner_AboutInformation_Module.aspx
 
 
 More info:
 ==================================
 
-Blogpost: (not yet visible)
+Blogpost: http://newguid.net/sitecore/2013/new-sitecore-module-sitecore-partner-aboutinformation-module/
 
 
 Brought to you by:
@@ -26,4 +26,4 @@ Robbert Hock (Kayee, Internet & Software Oplossingen)
 Twitter: @kayeeNL   
 Web: http://www.kayee.nl
 
-Sitecore MVP 2010
+Sitecore MVP 2010-2013
